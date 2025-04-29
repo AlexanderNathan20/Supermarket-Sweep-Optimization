@@ -1,6 +1,6 @@
 # 🛒 Supermarket Sweep Optimization
 
-This project was developed as part of **ISyE 4133: Advanced Optimization (Spring 2024)** at Georgia Tech. The objective was to formulate and solve an optimization problem inspired by the game show *Supermarket Sweep*, in which two shoppers aim to collect the most valuable items in the shortest time possible.
+The objective of this project was to formulate and solve an optimization problem inspired by the game show *Supermarket Sweep*, in which two shoppers aim to collect the most valuable items in the shortest time possible.
 
 ---
 
