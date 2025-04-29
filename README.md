@@ -60,9 +60,3 @@ The goal is to determine optimal paths for two shoppers to collect the most valu
 - **Gurobi Optimizer**
 - **Pandas / NumPy**
 - **Matplotlib** (for visualizations)
-
----
-
-## 📁 File Structure
-
-📂 supermarket-sweep/ ├── shortest_paths.py # Part A: Distance calculations ├── mip_model.py # Part B: MIP model (simultaneous) ├── sequential_model.py # Part E: MIP model (sequential) ├── visualization.py # Part D: Value vs. Time plots ├── data/ │ └── items.csv # Item location and value data ├── report/ │ └── Supermarket_Sweep_Report.pdf # Full project write-up └── README.md #
